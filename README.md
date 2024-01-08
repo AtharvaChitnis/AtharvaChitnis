@@ -10,7 +10,8 @@
 <hr>
 <h3> happy coding! 🚀 </h3>
 </div>
-
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis&show_icons=true&theme=transparent)
 
 <!--
 **AtharvaChitnis/AtharvaChitnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
