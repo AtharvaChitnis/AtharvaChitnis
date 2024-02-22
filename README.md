@@ -9,6 +9,7 @@
 <p align="justify">🔗 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. Together, let's push the boundaries of what technology can achieve.</p>
 <hr>
 <h3> happy coding! 🚀 </h3>
+<h3>📧: highiamatharva@gmail.com</h3>
 </div>
 <!--
 **AtharvaChitnis/AtharvaChitnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
