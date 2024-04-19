@@ -2,7 +2,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
 <div align = "center">
-  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
 
 <p align="justify"> I'm Atharva Chitnis, a passionate coder and tech enthusiast. My journey in the world of code is fueled by curiosity and a love for solving problems.</p><br>
 <p align="justify">💻 I specialize in Object-Oriented Programming, where I enjoy crafting elegant solutions and building efficient, scalable applications. From front-end development to back-end architecture, I love exploring every layer of the software stack.</p><br>
