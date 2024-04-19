@@ -11,7 +11,7 @@
 <hr>
 🧰 Toolbox
 
-<i class="devicon-devicon-plain colored"></i>
+<i class="devicon-devicon-plain colored">icons/javascript/javascript-original.svg</i>
 <hr>
 <h3> happy coding! 🚀 </h3>
 <h3>📧: highiamatharva@gmail.com</h3>
