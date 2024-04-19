@@ -13,7 +13,7 @@
 <h3>📧: highiamatharva@gmail.com</h3>
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
-[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChitnis&hide_progress=true)
 
 </div>
 <!--
