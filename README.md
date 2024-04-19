@@ -8,12 +8,12 @@
 <p align="justify">🚀 On my GitHub, you'll find a collection of projects that reflect my diverse interests, ranging from HTML, CSS, C, C++, C#, and JavaScript. I believe in the power of open source, collaboration, and continuous learning.</p><hr>
 <p align="justify">🌱 Currently, I'm exploring JavaScript, React.Js, and Typescript. I'm always open to new challenges and opportunities to expand my skill set.</p><br>
 <p align="justify">🔗 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. Together, let's push the boundaries of what technology can achieve.</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChitnis&hide_progress=true)
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <h3> happy coding! 🚀 </h3>
 <h3>📧: highiamatharva@gmail.com</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChitnis&hide_progress=true)
-[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
