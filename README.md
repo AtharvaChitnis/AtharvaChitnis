@@ -14,7 +14,7 @@
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChitnis&hide_progress=true)
-[![Atharva's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/AtharvaChitnis/github-readme-stats)
+[![Atharva's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtharvaChitnis)](https://github.com/AtharvaChitnis/github-readme-stats)
 
 </div>
 <!--
