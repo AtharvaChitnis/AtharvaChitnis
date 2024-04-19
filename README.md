@@ -9,11 +9,6 @@
 <p align="justify">🌱 Currently, I'm exploring JavaScript, React.Js, and Typescript. I'm always open to new challenges and opportunities to expand my skill set.</p><br>
 <p align="justify">🔗 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. Together, let's push the boundaries of what technology can achieve.</p>
 <hr>
-🧰 Toolbox
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50/> 
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="Javascript logo" width="50" height="50/> 
-<hr>
 <h3> happy coding! 🚀 </h3>
 <h3>📧: highiamatharva@gmail.com</h3>
 </div>
