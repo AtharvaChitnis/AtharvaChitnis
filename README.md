@@ -10,8 +10,7 @@
 <p align="justify">🔗 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. Together, let's push the boundaries of what technology can achieve.</p>
 <hr>
 🧰 Toolbox
-
-<i class="devicon-devicon-plain colored">icons/javascript/javascript-original.svg</i>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 <hr>
 <h3> happy coding! 🚀 </h3>
 <h3>📧: highiamatharva@gmail.com</h3>
