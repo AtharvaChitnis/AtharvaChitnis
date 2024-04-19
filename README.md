@@ -12,7 +12,7 @@
 <h3> happy coding! 🚀 </h3>
 <h3>📧: highiamatharva@gmail.com</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaChitnis)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
