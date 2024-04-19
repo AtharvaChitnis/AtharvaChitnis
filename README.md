@@ -1,5 +1,5 @@
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Atharva
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
 <div align = "center">
 <p align="justify"> I'm Atharva Chitnis, a passionate coder and tech enthusiast. My journey in the world of code is fueled by curiosity and a love for solving problems.</p><br>
