@@ -13,6 +13,7 @@
 <h3>📧: highiamatharva@gmail.com</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChitnis&hide_progress=true)
+https://www.codewars.com/users/AtharvaChitnis/badges/micro
 
 
 
