@@ -10,10 +10,10 @@
 <p align="justify">🔗 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. Together, let's push the boundaries of what technology can achieve.</p>
 <hr>
 <h3> happy coding! 🚀 </h3>
+<img src = 'https://www.codewars.com/users/AtharvaChitnis/badges/micro'>
 <h3>📧: highiamatharva@gmail.com</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaChitnis&hide_progress=true)
-<img src = 'https://www.codewars.com/users/AtharvaChitnis/badges/micro'>
 
 
 
