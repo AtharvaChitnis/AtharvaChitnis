@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+/* #f5f5f5 $fff */
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff; /* Light gray background */
+}
+
+header {
+  width: 70%;
+  background-color: #fff; /* White header */
+  border-bottom: 2px solid #f5f5f5;
+  border-left: 2px solid #f5f5f5;
+  border-right: 2px solid #f5f5f5;
+  padding: 20px;
+  display: flex; /* Flexbox for better layout control */
+  justify-content: space-between; /* Navigation on right side */
+}
+
+nav {
+  display: flex;
+  list-style: none; /* Remove bullet points */
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none; /* Remove underlines */
+  color: gray; /* Grey text */
+  padding: 10px 20px;
+  font-size: 14px; /* Slightly smaller font for a cleaner look */
+  font-weight: normal;
+}
+
+.nav-link:hover {
+  background-color: #e0e0e0; /* Lighter background on hover */
+  transition: all 0.3s ease-in-out; /* Smooth hover effect */
+  color: #000;
+}
+
+#hero {
+  /* background-color: #f5f5f5; */
+  width: 70%;
+  height: 80vh;
+  border: 2px solid #f5f5f5;
+  background-image: url('hero-background.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  position: relative; /* Allows for layering hero content */
+}
+
+.gif {
+    background: cover;
+}
+
+.hero-content {
+  padding: 50px;
+  position: absolute; /* Layers hero content on top of background */
+  top: 50%;
+  transform: translateY(-50%); /* Centers content vertically */
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3); /* Subtle text shadow for depth */
+}
+
+h1 {
+  font-size: 7.5em;
+  color: #000;
+  margin-top: 30px;
+  font-weight: lighter; /* Less aggressive weight for a softer look */
+}
+
+h3 {
+  font-size: 1.25em;
+  font-weight: lighter;
+  color: gray;
+  text-shadow: none;
+  margin-bottom: 20px;
+}
+
+.quote {
+  position: absolute;
+  bottom: 5em;
+  right: 5em;
+  border-left: 2px solid #f5f5f5;
+  background-color: #fff;
+  color: gray;
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.button {
+  position: absolute;
+  bottom: 3em;
+  right: 5em;
+  background-color: #fff;
+  color: gray;
+  padding: 10px 20px;
+  border: none;
+  font-size: 14px; /* Consistent font size */
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.button:hover,
+.view-button:hover {
+  background-color: #fff; /* Darker blue on hover */
+  color: #000;
+}
+
+section {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  border: 2px solid #f5f5f5;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  width: 100%;
+  padding: 10vh;
+  margin: auto;
+  text-align: center;
+  border: 2px solid #f5f5f5;
+}
+
+.grid {
+  display: flex;
+  width: 100%;
+  height: 30vh;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.project {
+  width: 100%;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle box-shadow for depth */
+}
+
+.view-button {
+  list-style: none;
+  background-color: #fff;
+  color: gray;
+  padding: 10px 20px;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+footer {
+    color: gray;
+    width: 70%;
+    height: 20vh;
+}
