@@ -64,7 +64,7 @@ nav a {
 }
 
 .gif {
-    background: cover;
+  background: cover;
 }
 
 .hero-content {
@@ -166,7 +166,14 @@ h2 {
 }
 
 footer {
-    color: gray;
-    width: 70%;
-    height: 20vh;
+  color: gray;
+  width: 70%;
+  height: 20vh;
+}
+
+footer p {
+  color: grey;
+  font-size: 12px;
+  font-weight: lighter;
+  font-family: 'Courier New', Courier, monospace;
 }
