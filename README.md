@@ -10,7 +10,9 @@
 <p align="justify">🔗 Let's connect! Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. Together, let's push the boundaries of what technology can achieve.</p>
 <hr>
 <h3> happy coding! 🚀 </h3>
+<p>
 Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=atharvachitnis
+</p>
 <img src = 'https://www.codewars.com/users/AtharvaChitnis/badges/micro'>
 <h3>📧: highiamatharva@gmail.com</h3>
 
